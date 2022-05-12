@@ -117,11 +117,11 @@ Criar uma classe que receba no construtor os campos `título`, `link`, `autor`, 
 
 ## Requisitos do desafio
 
-- [ ] Uso de TDD do início ao fim do projeto
-- [ ] Testes Unitários e **100% de Code Coverage**
-- [ ] Uso de Expressões Regulares
-- [ ] Validação de segurança de Expressões Regulares
-- [ ] Uso do padrão `Fluent API` e também o padrão `Facade`
+- [x] Uso de TDD do início ao fim do projeto
+- [x] Testes Unitários e **100% de Code Coverage**
+- [x] Uso de Expressões Regulares
+- [x] Validação de segurança de Expressões Regulares
+- [x] Uso do padrão `Fluent API` e também o padrão `Facade`
 
 > Dica do Wells: parece difícil, mas é só se basear no **Projeto base feito em aula durante o módulo 06** que fica tranquilo, confia! :)
 
