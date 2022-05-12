@@ -13,7 +13,7 @@ describe('Util', () => {
       */
     expect(() => evaluateRegex(unsafeRegex)).to.throw(
       InvalidRegexError,
-      `This ${unsafeRegex} is unsafe dude!`
+      `This ${unsafeRegex} is unsafe, dude!`
     );
   });
 
